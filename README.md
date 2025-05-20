@@ -32,3 +32,17 @@ Predicts on unseen messages and evaluates performance.
 
 Classify Custom Input
 Allows you to input any number of text messages and predict whether each one is spam or not.
+
+# Model Performance
+Accuracy: ~98%
+
+Classification Report: Includes precision, recall, and F1-score
+
+# Technologies Used
+Python 3
+
+Scikit-learn
+
+Pandas
+
+NumPy
